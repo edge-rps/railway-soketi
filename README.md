@@ -8,7 +8,7 @@ This example deploys a self-hosted version of [Soketi](https://soketi.app).
 
 - Performant Pusher-compatible server (that doesn't require a Pusher account)
 - WebSocket server with Pusher authentication
-- HTTP API server with Pusher autentication
+- HTTP API server with Pusher authentication
 - Horizontally Scalable with Redis or the DGRAM/UDP protocol
 
 ## 💁‍♀️ How to use
